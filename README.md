@@ -10,6 +10,6 @@ In particular,the developed model is using
 similarities between texts and text collections, and given a title and an abstract, will
 provide to user the most relevant journals for his paper.
 
-[Angular Part LinK](https://github.com/anoulis/Angular_Part_Of_Bachelor_Thesis)
+[Angular Part Link](https://github.com/anoulis/Angular_Part_Of_Bachelor_Thesis)
 
 
